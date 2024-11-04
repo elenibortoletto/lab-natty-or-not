@@ -12,8 +12,7 @@ Usar a imagem de um doce cachorrinho para propagar a idéia da adoção.
 ## 🧐 Processo de Criação
 Gerei a imagem no leonardo.ai, como usuário free, para explorar inicialmente a criação de imagens.
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
+(https://github.com/elenibortoletto/lab-natty-or-not.git)
 
 
 
