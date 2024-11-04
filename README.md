@@ -1,7 +1,5 @@
-
-
-
 #  **Adote um cachorro**
+!(https://github.com/elenibortoletto/lab-natty-or-not/commit/936361982eecb52289fa656d21c93720d8fa4ee6)
 
 ## 📒 Descrição
 Usar um avatar para propagar a idéia da adoção.
