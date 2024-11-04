@@ -10,7 +10,7 @@ Usar um avatar para propagar a idéia da adoção.
 (https://studio.d-id.com/)
 ## 🧐 Processo de Criação
 Gerei a imagem no leonardo.ai, como usuário free, para explorar inicialmente a criação de imagens.
-Utilizei o https://studio.d-id.com/video-studio, paa gerar um avatar para incentivar a adoção.
+Utilizei o https://studio.d-id.com/video-studio, para gerar um avatar para incentivar a adoção.
 
 ## 🚀 Resultados
 (https://github.com/elenibortoletto/lab-natty-or-not.git)
