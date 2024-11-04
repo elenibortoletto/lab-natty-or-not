@@ -9,6 +9,7 @@ Usar a imagem de um doce cachorrinho para propagar a idéia da adoção.
 ## 🤖 Tecnologias Utilizadas
 (https://app.leonardo.ai/image-generation
 )
+(https://studio.d-id.com/)
 ## 🧐 Processo de Criação
 Gerei a imagem no leonardo.ai, como usuário free, para explorar inicialmente a criação de imagens.
 ## 🚀 Resultados
