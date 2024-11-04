@@ -2,10 +2,9 @@
 
 
 #  **Adote um cachorro**
-!(https://app.leonardo.ai/image-generation
-)
+
 ## 📒 Descrição
-Usar a imagem de um doce cachorrinho para propagar a idéia da adoção.
+Usar um avatar para propagar a idéia da adoção.
 
 ## 🤖 Tecnologias Utilizadas
 (https://app.leonardo.ai/image-generation
