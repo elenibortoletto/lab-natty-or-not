@@ -2,7 +2,8 @@
 
 
 #  **Adote um cachorro**
-!(https://github.com/elenibortoletto/lab-natty-or-not.git)
+!(https://app.leonardo.ai/image-generation
+)
 ## 📒 Descrição
 Usar a imagem de um doce cachorrinho para propagar a idéia da adoção.
 
