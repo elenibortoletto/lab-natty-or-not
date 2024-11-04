@@ -1,7 +1,7 @@
 
 
 
-#  **Adote um cachorro**)
+#  **Adote um cachorro**
 
 ## 📒 Descrição
 Usar a imagem de um doce cachorrinho para propagar a idéia da adoção.
